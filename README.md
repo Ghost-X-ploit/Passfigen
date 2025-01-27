@@ -14,7 +14,7 @@ Features
 
 ## How to Use
 
-1. Download or Clone the Repository Clone this repository to your local machine using Git:
+1. Download or Clone the Repository Clone this repository to your local machine using Git:\n
     ``git clone https://github.com/Ghost-X-ploit/Passfigen.git``
 2. Make sure you have Python 3 installed. 
 
